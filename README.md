@@ -71,7 +71,7 @@ My journey in Information Technology  has led me to develop a passion for cybers
 </div>
 
 
-![image alt]() 
+![image alt](https://github.com/LimoJK/LIMO.-JK/blob/a27bbd5562f288a802aecca77a1c3106b1d1d4a0/image.png) 
 
 ## Certifications
 <div>
