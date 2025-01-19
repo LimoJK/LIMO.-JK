@@ -93,7 +93,7 @@ While exploring SPLUNK> ENTERPRISE, some of the functions of an ADMIN are;
       ![image alt]() 
 
 
-      ![image alt]() 
+      ![image alt](https://github.com/LimoJK/LIMO.-JK/blob/main/azure.jpg)
 
       ![image alt]() 
 
