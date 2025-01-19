@@ -71,7 +71,7 @@ My journey in Information Technology  has led me to develop a passion for cybers
 </div>
 
 
-![image alt]() 
+![image alt](https://github.com/LimoJK/LIMO.-JK/blob/4ba0b167c43ac876bdd9fb73a720e1e37691cb36/sentinel.png) 
 
 
 
