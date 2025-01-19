@@ -156,4 +156,4 @@ You can also utilize pivot, quick reports or search commands documentation or em
 ## Projects
 - PenTest Lab
 - SOC Automation Project
-- Slunk> Enterprise
+- Splunk> Enterprise
