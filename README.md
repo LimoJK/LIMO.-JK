@@ -82,7 +82,8 @@ MICROSOFT SENTINEL
 
 ![image alt](https://github.com/LimoJK/LIMO.-JK/blob/4ba0b167c43ac876bdd9fb73a720e1e37691cb36/sentinel.png)   ![image alt](https://github.com/LimoJK/LIMO.-JK/blob/60aab478061bc2ac47d6eb3eed4e182a764f44d2/azure.jpg)       
 
- ![image alt](https://github.com/LimoJK/LIMO.-JK/blob/5e438a5e408d37be0bd4b09b2a9f70d9c65a35bd/Azure%202.jpg) 
+ ![image alt](https://github.com/LimoJK/LIMO.-JK/blob/5e438a5e408d37be0bd4b09b2a9f70d9c65a35bd/Azure%202.jpg) ![image alt](https://github.com/LimoJK/LIMO.-JK/blob/c12e5d9b5698fa1102bd898b2ed25b5a9d69fde2/azure%20sentinel.png) 
+
 
 
 
@@ -108,8 +109,7 @@ While exploring SPLUNK> ENTERPRISE, some of the functions of an ADMIN are;
       ![image alt]() 
 
 
-      ![image alt]() 
-
+      
 
 
 ## Certifications
