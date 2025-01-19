@@ -94,12 +94,12 @@ My journey in Information Technology  has led me to develop a passion for cybers
 
 While exploring SPLUNK> ENTERPRISE, some of the functions of an ADMIN are;
 
-      **Running searches
-      **Using Commands
-      **Creating reports
-      **Creating Dashboards
-      **Understanding knowledge objects
-      **Data processing fromm various sources such as Game logs, firewall and web security appliance data and internal security data related to badge reader access and active directory credentials.
+-**Running searches
+-**Using Commands
+-**Creating reports
+-**Creating Dashboards
+-**Understanding knowledge objects
+-**Data processing fromm various sources such as Game logs, firewall and web security appliance data and internal security data related to badge reader access and active directory credentials.
 
  ![image alt](https://github.com/LimoJK/LIMO.-JK/blob/a8243574d0b35b163015222bdcc86d0a8df726a1/Screenshot%202025-01-19%20202204.png)
 
