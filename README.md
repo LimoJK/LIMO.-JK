@@ -71,7 +71,15 @@ My journey in Information Technology  has led me to develop a passion for cybers
 </div>
 
 
-![image alt](https://github.com/LimoJK/LIMO.-JK/blob/a27bbd5562f288a802aecca77a1c3106b1d1d4a0/image.png) 
+![image alt]() 
+
+![image alt]() 
+
+![image alt]() 
+
+![image alt](https://github.com/LimoJK/LIMO.-JK/blob/main/Screenshot%202025-01-19%20201136.png) 
+
+
 
 While exploring SPLUNK> ENTERPRISE, some of the functions of an ADMIN are;
 
@@ -81,6 +89,16 @@ While exploring SPLUNK> ENTERPRISE, some of the functions of an ADMIN are;
       *Creating Dashboards
       *Understanding knowledge objects
       *Data processing fromm various sources such as Game logs, firewall and web security appliance data and internal security data related to badge reader access and active directory credentials.
+
+      ![image alt]() 
+
+
+      ![image alt]() 
+
+      ![image alt]() 
+
+
+      ![image alt]() 
 
 
 
