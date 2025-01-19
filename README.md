@@ -113,6 +113,15 @@ Problem solving or support request via application support, searching data for e
 
 ![image alt](https://github.com/LimoJK/LIMO.-JK/blob/bb880f067ce70c6b6eaa5b320aec3a04a4766557/Screenshot%202025-01-19%20202854.png)
 
+## SEARCH AND REPORTING
+
+Provides a default interface for searching and analysing data.
+
+Provides a data summary breakdown of the data indexed by hosts, sources and sourcetypes(data specific to class)
+Allows utilising table views to analyze data to explore and prepare your data without using Splunk> searchh processing language.
+
+Search history ## MENU allows you to view and re-run past searches and narrow down search history in the filter windows or filter searches by day, week or over the last 30 days.
+
 ![image alt](https://github.com/LimoJK/LIMO.-JK/blob/7fb7862065f05a49601b534390e187c03951ea2a/Screenshot%202025-01-19%20212837.png)
 
 ![image alt](https://github.com/LimoJK/LIMO.-JK/blob/420b40c314eb2a3b5b7328b3e4d62572d1a310b2/Screenshot%202025-01-19%20213023.png)
