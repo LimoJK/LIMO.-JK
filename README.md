@@ -110,7 +110,7 @@ While exploring SPLUNK> ENTERPRISE, some of the functions of an ADMIN are;
 
 ![image alt](https://github.com/LimoJK/LIMO.-JK/blob/b520b54f664995f67a0ed2920cad5a55c2e4d668/Screenshot%202025-01-19%20202957.png)
 
-![image alt]()
+![image alt](https://github.com/LimoJK/LIMO.-JK/blob/bb880f067ce70c6b6eaa5b320aec3a04a4766557/Screenshot%202025-01-19%20202854.png)
 
 ![image alt]()
     
