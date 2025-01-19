@@ -78,7 +78,7 @@ My journey in Information Technology  has led me to develop a passion for cybers
 
 
 
-MICROSOFT SENTINEL
+## MICROSOFT SENTINEL
 
 ![image alt](https://github.com/LimoJK/LIMO.-JK/blob/4ba0b167c43ac876bdd9fb73a720e1e37691cb36/sentinel.png)   ![image alt](https://github.com/LimoJK/LIMO.-JK/blob/60aab478061bc2ac47d6eb3eed4e182a764f44d2/azure.jpg)       
 
@@ -87,19 +87,19 @@ MICROSOFT SENTINEL
 
 
 
-SPLUNK> ENTERPRISE
+## SPLUNK> ENTERPRISE
 ![image alt](https://github.com/LimoJK/LIMO.-JK/blob/main/Screenshot%202025-01-19%20201136.png) 
 
 
 
 While exploring SPLUNK> ENTERPRISE, some of the functions of an ADMIN are;
 
-      *Running searches
-      *Using Commands
-      *Creating reports
-      *Creating Dashboards
-      *Understanding knowledge objects
-      *Data processing fromm various sources such as Game logs, firewall and web security appliance data and internal security data related to badge reader access and active directory credentials.
+      **Running searches
+      **Using Commands
+      **Creating reports
+      **Creating Dashboards
+      **Understanding knowledge objects
+      **Data processing fromm various sources such as Game logs, firewall and web security appliance data and internal security data related to badge reader access and active directory credentials.
 
  ![image alt](https://github.com/LimoJK/LIMO.-JK/blob/a8243574d0b35b163015222bdcc86d0a8df726a1/Screenshot%202025-01-19%20202204.png)
 
@@ -118,9 +118,8 @@ While exploring SPLUNK> ENTERPRISE, some of the functions of an ADMIN are;
       
 
 
-      ![image alt](https://github.com/LimoJK/LIMO.-JK/blob/main/azure.jpg)
 
-      ![image alt]() 
+
 
 
       
