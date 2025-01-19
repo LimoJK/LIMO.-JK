@@ -68,12 +68,21 @@ My journey in Information Technology  has led me to develop a passion for cybers
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+
+    
 </div>
 
 
-![image alt](https://github.com/LimoJK/LIMO.-JK/blob/4ba0b167c43ac876bdd9fb73a720e1e37691cb36/sentinel.png) ![image alt](https://github.com/LimoJK/LIMO.-JK/blob/60aab478061bc2ac47d6eb3eed4e182a764f44d2/azure.jpg) 
 
-![image alt]() 
+
+
+
+
+MICROSOFT SENTINEL
+
+![image alt](https://github.com/LimoJK/LIMO.-JK/blob/4ba0b167c43ac876bdd9fb73a720e1e37691cb36/sentinel.png)   ![image alt](https://github.com/LimoJK/LIMO.-JK/blob/60aab478061bc2ac47d6eb3eed4e182a764f44d2/azure.jpg)       
+
+ ![image alt](https://github.com/LimoJK/LIMO.-JK/blob/5e438a5e408d37be0bd4b09b2a9f70d9c65a35bd/Azure%202.jpg) 
 
 ![image alt](https://github.com/LimoJK/LIMO.-JK/blob/main/Screenshot%202025-01-19%20201136.png) 
 
