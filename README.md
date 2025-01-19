@@ -154,6 +154,6 @@ You can also utilize pivot, quick reports or search commands documentation or em
 </div>
 
 ## Projects
-- Detection Lab
+- PenTest Lab
 - SOC Automation Project
 - Slunk> Enterprise
