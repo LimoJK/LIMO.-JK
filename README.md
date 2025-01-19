@@ -122,9 +122,14 @@ Allows utilising table views to analyze data to explore and prepare your data wi
 
 Search history ## MENU allows you to view and re-run past searches and narrow down search history in the filter windows or filter searches by day, week or over the last 30 days.
 
+Using the search bar to monitor, look for, or identify failed login or access attempts to server or system specific  to a past week by time is key to getting accurate and pinpoint results faster by time range.
+
+
 ![image alt](https://github.com/LimoJK/LIMO.-JK/blob/7fb7862065f05a49601b534390e187c03951ea2a/Screenshot%202025-01-19%20212837.png)
 
 ![image alt](https://github.com/LimoJK/LIMO.-JK/blob/420b40c314eb2a3b5b7328b3e4d62572d1a310b2/Screenshot%202025-01-19%20213023.png)
+
+You can also utilize pivot, quick reports or search commands documentation or employ transforming ## Commands to create statistics and visualisations, transform events into data tables.
     
     
     
